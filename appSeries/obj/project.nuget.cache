@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zA4nvab7IKhUy1P1sXClScQ/G14B45j+44+zo/yj3pvlBPup9smqDrLKgUeQ3sEIKYBKjXe2HYjV5ALQHTRTGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rickel\\source\\repos\\AppSeries_Dio\\appSeries\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rickel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
